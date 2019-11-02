@@ -1,4 +1,4 @@
-# Enqueuing your style and scripts
+# Style and scripts enqueue functions
 
 ## Using the Enqueue functions <a id="firstHeading"></a>
 

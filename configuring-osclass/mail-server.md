@@ -1,3 +1,7 @@
+---
+description: Basic Instructions to configure mail server in Osclass
+---
+
 # Mail Server
 
 ## Setting up a mail server <a id="firstHeading"></a>

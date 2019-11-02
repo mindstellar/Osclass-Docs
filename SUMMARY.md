@@ -19,19 +19,17 @@
 
 ## Developers
 
-   ### Contributer
-  * For Contributers 
-  * [Contribute to Osclass](developers/contribute-to-osclass.md)
-  * [Coding Style](developers/coding-style.md)
-  * [Debug PHP Errors](developers/debug-php-errors.md)
-  * [Debug SQL Queries](developers/debug-sql-queries.md)
-  * [How to write a bug report](developers/how-to-write-a-bug-report.md)
-  * [Database model and diagram](developers/database-model-and-diagram.md)
-  
-  * Themes Plugin Developers
-    * [Auto-update themes and plugins](developers/auto-update-themes-and-plugins.md)
-    * [Administrator Menus](developers/administrator-menus.md)
-    * [Admin Toolbar](developers/admin-toolbar.md)
-    * [Enqueuing your style and scripts](developers/enqueuing-your-style-and-scripts.md)
-    * [Routes](developers/routes.md)
+* [For Contributers](developers/for-contributers/README.md)
+  * [Contribute to Osclass](developers/for-contributers/contribute-to-osclass.md)
+  * [Coding Style](developers/for-contributers/coding-style.md)
+  * [Debug PHP Errors](developers/for-contributers/debug-php-errors.md)
+  * [Debug SQL Queries](developers/for-contributers/debug-sql-queries.md)
+  * [How to write a bug report](developers/for-contributers/how-to-write-a-bug-report.md)
+  * [Database model and diagram](developers/for-contributers/database-model-and-diagram.md)
+* [Themes Plugin Developers](developers/themes-plugin-developers/README.md)
+  * [Auto-update themes and plugins](developers/themes-plugin-developers/auto-update-themes-and-plugins.md)
+  * [Administrator Menus](developers/themes-plugin-developers/administrator-menus.md)
+  * [Admin Toolbar](developers/themes-plugin-developers/admin-toolbar.md)
+  * [Enqueuing your style and scripts](developers/themes-plugin-developers/enqueuing-your-style-and-scripts.md)
+  * [Routes](developers/themes-plugin-developers/routes.md)
 

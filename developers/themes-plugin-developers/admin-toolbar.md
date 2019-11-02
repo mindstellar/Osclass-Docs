@@ -1,6 +1,6 @@
 # Admin Toolbar
 
-![Admin Toolbar](../.gitbook/assets/admintoolbar.jpg)
+![Admin Toolbar](../../.gitbook/assets/admintoolbar.jpg)
 
 At admin panel since osclass version 3.0, there is a toolbar which is visible around the admin panel, can have shortcuts to actions like: add a new listing, show pending updates, ...
 

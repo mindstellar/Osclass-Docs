@@ -12,5 +12,5 @@ This diagram could be a bit difficult to understand at first and follow all the 
 
 Relations will highlight if you place your mouse over the tables or the relations.
 
-![](../.gitbook/assets/database_diagram.png)
+![](../../.gitbook/assets/database_diagram.png)
 

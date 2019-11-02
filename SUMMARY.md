@@ -17,3 +17,17 @@
 * [Improving Search](configuring-osclass/improving-search.md)
 * [Configure Cache](configuring-osclass/configure-cache.md)
 
+## Developers
+
+* [Contribute to Osclass](developers/contribute-to-osclass.md)
+* [Coding Style](developers/coding-style.md)
+* [Debug PHP Errors](developers/debug-php-errors.md)
+* [Debug SQL Queries](developers/debug-sql-queries.md)
+* [How to write a bug report](developers/how-to-write-a-bug-report.md)
+* [Database model and diagram](developers/database-model-and-diagram.md)
+* [Auto-update themes and plugins](developers/auto-update-themes-and-plugins.md)
+* [Administrator Menus](developers/administrator-menus.md)
+* [Admin Toolbar](developers/admin-toolbar.md)
+* [Enqueuing your style and scripts](developers/enqueuing-your-style-and-scripts.md)
+* [Routes](developers/routes.md)
+

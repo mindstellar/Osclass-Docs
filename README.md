@@ -2,11 +2,7 @@
 description: Get Started with Osclass
 ---
 
-# Get Started
-
-{% hint style="info" %}
-### This repo is a fork of official [Osclass](https://github.com/osclass/Osclass) repository
-{% endhint %}
+# Osclass
 
 ## Why this new fork?
 

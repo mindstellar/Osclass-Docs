@@ -23,6 +23,7 @@ $> git clone --recursive git@github.com:navjottomer/Osclass.git
 ## Project info
 
 * **Source Code:** [https://github.com/navjottomer/osclass](https://github.com/navjottomer/Osclass)
+* **Support Forum:** [https://osclass.discourse.group](https://osclass.discourse.group)
 * **Releases:** [https://github.com/navjottomer/Osclass/releases](https://github.com/navjottomer/Osclass/releases)
 * **Osclass Extras:** [https://github.com/navjottomer/Osclass-Extras](https://github.com/navjottomer/Osclass-Extras)
 * **License:** [Apache License V2.0](http://www.apache.org/licenses/LICENSE-2.0)

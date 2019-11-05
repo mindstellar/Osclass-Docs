@@ -1,9 +1,9 @@
 # Introduction
 
-Don't want to upgrade to 3.9.0, This is a guide for you to get rid of legacy osclass market.
+If you don't want to upgrade to new Osclass 3.9.0, you can use use this guide to remove Osclass Market from your current installation.
 
 {% hint style="info" %}
-This is a shameless copy of a guide made by osclass contributor [webmods-croatia](https://github.com/webmods-croatia) by his permissions.
+This guide was made by [webmods-croatia](https://github.com/webmods-croatia) and was originally posted on docs.osclasscommunity.com which is now moved here.
 {% endhint %}
 
 ## About the guide. <a id="about-the-guide"></a>

@@ -35,7 +35,7 @@
 
 ## Legacy Installations Pre 3.8.0
 
-* [Introduction](legacy-installations-pre-3.8.0/untitled.md)
+* [Introduction](legacy-installations-pre-3.8.0/intro.md)
 * [Remove calls to Osclass](legacy-installations-pre-3.8.0/remove-calls-to-osclass/README.md)
   * [Delete featured products from Admin.](legacy-installations-pre-3.8.0/remove-calls-to-osclass/delete-featured-products-from-admin..md)
   * [Stop auto upgrading.](legacy-installations-pre-3.8.0/remove-calls-to-osclass/stop-auto-upgrading..md)
@@ -46,4 +46,3 @@
   * [Delete Market from Plugins.](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-market-from-plugins..md)
   * [Delete Market from Appearance \(themes\).](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-market-from-appearance-themes-..md)
   * [Delete Connect Market from Admin toolbar.](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-connect-market-from-admin-toolbar..md)
-

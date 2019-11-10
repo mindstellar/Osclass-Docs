@@ -21,4 +21,3 @@ We visited admin homepage, plugins, themes and language pages, settings page, we
 There wasn't a single cURL log that says that a request has been made to Osclass.
 
 Also, all this changes were made on a live site as the guide was written. There were no problems, errors and warnings.
-

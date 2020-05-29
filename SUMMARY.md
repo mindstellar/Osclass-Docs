@@ -7,7 +7,6 @@
 * [Install](beginners/install.md)
 * [Updating Osclass](beginners/updating-osclass.md)
 * [Osclass Cron](beginners/osclass-cron.md)
-* [User Guide](beginners/user-guide.md)
 
 ## Configuring Osclass
 

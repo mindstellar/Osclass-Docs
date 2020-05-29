@@ -37,12 +37,14 @@ If you're going to use "Jquery My plugin", do not register it as "my\_extrange\_
 ### Examples
 
 **registering a javascript file**
-
-osc\_register\_script\('jCarouselLite', osc\_base\_url\(\) . 'oc-content/plugins/carousel\_for\_osclass/js/jCarouselLite.js', 'jquery'\);
+```php
+osc_register_script('jCarouselLite', osc_base_url() . 'oc-content/plugins/carousel_for_osclass/js/jCarouselLite.js', 'jquery');
+```
 
 **Enqueueing the script**
-
-osc\_enqueue\_script\('jCarouselLite'\);
+```php
+osc_enqueue_script('jCarouselLite');
+```
 
 **Enqueueing a style**
 
@@ -92,14 +94,20 @@ Osclass pre registers some of the more common javascript files.
 Here is the list of pre registered javascript files.
 
 ```php
-osc_register_script('jquery', osc_assets_url('js/jquery.min.js'));
-osc_register_script('jquery-ui', osc_assets_url('js/jquery-ui.min.js'), 'jquery');
-osc_register_script('jquery-json', osc_assets_url('js/jquery.json.js'), 'jquery');
-osc_register_script('jquery-treeview', osc_assets_url('js/jquery.treeview.js'), 'jquery');
-osc_register_script('jquery-nested', osc_assets_url('js/jquery.ui.nestedSortable.js'), 'jquery');
-osc_register_script('jquery-validate', osc_assets_url('js/jquery.validate.min.js'), 'jquery'); 
-osc_register_script('tabber', osc_assets_url('js/tabber-minimized.js'), 'jquery');
-osc_register_script('tiny_mce', osc_assets_url('js/tiny_mce/tiny_mce.js'));
-osc_register_script('colorpicker', osc_assets_url('js/colorpicker/js/colorpicker.js'));
+osc_register_script('jquery', osc_assets_url('js/jquery/jquery.min.js'));
+osc_register_script('jquery-migrate', osc_assets_url('js/jquery-migrate/jquery-migrate.min.js'), array('jquery'));
+osc_register_script('jquery-ui', osc_assets_url('js/jquery-ui/jquery-ui.min.js'), 'jquery');
+osc_register_script('jquery-treeview', osc_assets_url('js/jquery-treeview/jquery.treeview.js'), 'jquery');
+osc_register_script('jquery-nested', osc_assets_url('js/jquery-ui-nested/jquery-ui-nested.js'), 'jquery-ui');
+osc_register_script('jquery-validate', osc_assets_url('js/jquery-validation/jquery.validate.min.js'), 'jquery');
+osc_register_script('jquery-validate-additional', osc_assets_url('js/jquery-validation/additional-methods.min.js'), 'jquery-validate');
+osc_register_script('jquery-spectrum', osc_assets_url('js/spectrum/spectrum.js'), 'jquery');
+osc_register_script('tiny_mce', osc_assets_url('js/tinymce/tinymce.min.js'));
+
+//Legacy js libraries
+osc_register_script('tabber', osc_assets_url('osclass-legacy/js/tabber-minimized.js'), 'jquery');
+osc_register_script('colorpicker', osc_assets_url('osclass-legacy/js/colorpicker/js/colorpicker.js'));
+osc_register_script('php-date', osc_assets_url('osclass-legacy/js/date.js'));
+osc_register_script('jquery-fineuploader', osc_assets_url('osclass-legacy/js/fineuploader/jquery.fineuploader.min.js'), 'jquery');
 ```
 

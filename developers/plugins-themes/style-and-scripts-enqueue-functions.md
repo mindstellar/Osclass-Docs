@@ -30,18 +30,20 @@ The enqueue functions are used for loading your javascript and css files. The re
 
 **Good naming practices**
 
-If you're going to use another js library/file which is not in oc-load \(for example fancybox, or any other jquery plugin\) please, use a "good" name. 
+If you're going to use another js library/file which is not in oc-load \(for example fancybox, or any other jquery plugin\) please, use a "good" name.
 
 If you're going to use "Jquery My plugin", do not register it as "my\_extrange\_name", because if someone else could be registering it with a different name and then it would be loaded twice.
 
 ### Examples
 
 **registering a javascript file**
+
 ```php
 osc_register_script('jCarouselLite', osc_base_url() . 'oc-content/plugins/carousel_for_osclass/js/jCarouselLite.js', 'jquery');
 ```
 
 **Enqueueing the script**
+
 ```php
 osc_enqueue_script('jCarouselLite');
 ```
@@ -59,7 +61,7 @@ osc_enqueue_style(
 You may have noticed that i did not register the style and that is because it is not required and there is no function to do so.
 {% endhint %}
 
-**Ok now onto a real life example.** 
+**Ok now onto a real life example.**
 
 To use these functions you will want to create a function for this example I am going to use ex\_load\_scripts\(\) please use a unique function name in your plugin if you are planning on releasing it otherwise we could end up with conflicting function names.
 

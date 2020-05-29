@@ -14,7 +14,7 @@ Work in progress
 
 ## Manual Update
 
-These are short instructions, we're going to extend them in the future. If you experience problems you should report them on [Osclass forums](https://forums.osclasscommunity.com).
+These are short instructions, we're going to extend them in the future. If you experience problems you should report them on [Osclass forums](https://osclass.discourse.group).
 
 For these instructions, it is assumed that your Osclass URL is `http://example.com/`.
 
@@ -24,10 +24,10 @@ You should take a backup of your database and files. All your data is held in th
 
 ### Step 2: Replace Osclass files
 
-* Get the [latest Osclass](https://github.com/navjottomer/Osclass/releases). \(zip or tar.gz\)
+* Get the [latest Osclass](https://github.com/mindstellar/Osclass/releases/latest). \(zip or tar.gz\)
 * Unpack the zip file that you've downloaded.
 * Using FTP or you SSH, upload the new files. You should replace all the old Osclass files with the new ones: oc-admin and oc-includes directories and sub-directories, and in the root directory \(ajax.php, contact.php, index.php, item.php and so on\). Do NOT delete config.php file.
-* Be careful when copying the oc-content directory. You should make sure that you only copy the files from inside this directory, rather than replacing your entire oc-content directory. If you have customized the default theme without renaming it, make sure not to overwrite those files, otherwise you will lose your changes. \(Though you might want to compare them for new features or fixes...\)
+* **Be careful when copying the oc-content directory. You should make sure that you only copy the files from inside this directory, rather than replacing your entire oc-content directory.** If you have customized the default theme without renaming it, make sure not to overwrite those files, otherwise you will lose your changes. \(Though you might want to compare them for new features or fixes...\)
 
 ### Step 3: Update your installation
 

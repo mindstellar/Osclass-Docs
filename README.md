@@ -17,7 +17,7 @@ Best features: Plugins, themes, multi-language, CAPTCHA, dashboard, SEO friendly
 Clone the repository and the submodules.
 
 ```text
-$> git clone --recursive git@github.com:navjottomer/Osclass.git
+$> git clone --recursive git@github.com:mindstellar/Osclass.git
 ```
 
 ## Project info

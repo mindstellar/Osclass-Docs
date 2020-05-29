@@ -46,3 +46,4 @@
   * [Delete Market from Plugins.](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-market-from-plugins..md)
   * [Delete Market from Appearance \(themes\).](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-market-from-appearance-themes-..md)
   * [Delete Connect Market from Admin toolbar.](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-connect-market-from-admin-toolbar..md)
+

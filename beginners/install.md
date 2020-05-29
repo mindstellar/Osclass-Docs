@@ -4,22 +4,22 @@ description: Step By Step Installation Guide
 
 # Install
 
-### **Step 1**
+## **Step 1**
 
 Download and unzip the Osclass package.
 
-### **Step 2**
+## **Step 2**
 
 Move the Osclass unzipped files to the desired location on your server.
 
-### **Step 3**
+## **Step 3**
 
 Execute the Osclass installation script by accessing index.php or oc-includes/osclass/install.php from your browser:
 
 * If you’ve installed it in the domain’s root directory, you’ll have to go to: [http://example.com/index.php](http://example.com/index.php) or directly to [http://example.com/oc-includes/osclass/install.php](http://example.com/oc-includes/osclass/install.php)
 * If you’ve installed it in a subdirectory inside the domain, classifieds, for example, go to: [http://example.com/classifieds/index.php](http://example.com/classifieds/index.php) or directly to [http://example.com/classifieds/oc-includes/osclass/install.php](http://example.com/classifieds/oc-includes/osclass/install.php)
 
-### **Step 4**
+## **Step 4**
 
 Follow the installer’s instructions:
 
@@ -31,3 +31,4 @@ Follow the installer’s instructions:
   * Add the basic installation details and select your classifieds site’s country.
 * Step 4.4
   * Your installation is finished! Use the automatically-generated password to access your admin panel \(/oc-admin\).
+

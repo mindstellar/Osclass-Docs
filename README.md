@@ -10,7 +10,7 @@ Since Osclass project was effectively shut down in September 2019, this project'
 
 ## What is Osclass?
 
-Osclass is a free and open script to create your advertisement or listings site. 
+Osclass is a free and open script to create your advertisement or listings site.
 
 Best features: Plugins, themes, multi-language, CAPTCHA, dashboard, SEO friendly.
 

@@ -32,17 +32,3 @@
   * [Style and scripts enqueue functions](developers/plugins-themes/style-and-scripts-enqueue-functions.md)
   * [Routes](developers/plugins-themes/routes.md)
 
-## Legacy Installations Pre 3.8.0
-
-* [Introduction](legacy-installations-pre-3.8.0/intro.md)
-* [Remove calls to Osclass](legacy-installations-pre-3.8.0/remove-calls-to-osclass/README.md)
-  * [Delete featured products from Admin.](legacy-installations-pre-3.8.0/remove-calls-to-osclass/delete-featured-products-from-admin..md)
-  * [Stop auto upgrading.](legacy-installations-pre-3.8.0/remove-calls-to-osclass/stop-auto-upgrading..md)
-  * [Stop checking for updates from Osclass.](legacy-installations-pre-3.8.0/remove-calls-to-osclass/stop-checking-for-updates-from-osclass..md)
-  * [Disable Upgrade page](legacy-installations-pre-3.8.0/remove-calls-to-osclass/disable-upgrade-page.md)
-* [Remove Market from admin frontend](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/README.md)
-  * [Delete Market from Admin menu.](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-market-from-admin-menu..md)
-  * [Delete Market from Plugins.](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-market-from-plugins..md)
-  * [Delete Market from Appearance \(themes\).](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-market-from-appearance-themes-..md)
-  * [Delete Connect Market from Admin toolbar.](legacy-installations-pre-3.8.0/remove-market-from-admin-frontend/delete-connect-market-from-admin-toolbar..md)
-

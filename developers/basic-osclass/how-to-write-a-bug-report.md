@@ -23,7 +23,7 @@ Here’s a great rule: **If we can’t reproduce the bug, we can’t fix the bug
 5. What version of OSClass?
 6. What hosting provider? \(And if you know, what version of PHP do they use?\)
 7. The bug is reported to the right place:
-   1. \*\*\*\*[**OSClass**](https://github.com/osclass/osclass/issues)\*\*\*\*
+   1. \*\*\*\*[**OSClass**](https://github.com/mindstellar/osclass/issues)\*\*\*\*
    2. **Plugins:** Specify the plugin and the version
    3. **Themes:** Specify the theme and the version
 

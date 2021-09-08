@@ -26,5 +26,5 @@ $> git clone --recursive git@github.com:mindstellar/Osclass.git
 * **Support Forum:** [https://osclass.discourse.group](https://osclass.discourse.group)
 * **Releases:** [https://github.com/mindstellar/Osclass/releases](https://github.com/mindstellar/Osclass/releases)
 * **Osclass Extras:** [https://github.com/mindstellar/Osclass-Extras](https://github.com/mindstellar/Osclass-Extras)
-* **License:** [Apache License V2.0](http://www.apache.org/licenses/LICENSE-2.0)
+* **License:** [GPLv3]
 

@@ -1,10 +1,10 @@
 # Admin Toolbar
 
-![Admin Toolbar](../../.gitbook/assets/admintoolbar.jpg)
+![Admin Toolbar](../../.gitbook/assets/Admintoolbar.jpg)
 
 At admin panel since osclass version 3.0, there is a toolbar which is visible around the admin panel, can have shortcuts to actions like: add a new listing, show pending updates, ...
 
-Developers can add to the toolbar whatever they want, with hooks, and calling AdminToolbar functions like add\_menu\($array\)
+Developers can add to the toolbar whatever they want, with hooks, and calling AdminToolbar functions like add\_menu($array)
 
 ```php
  AdminToolbar::newInstance()->add_menu( array(...) );
@@ -47,4 +47,3 @@ Developers can add to the toolbar whatever they want, with hooks, and calling Ad
 ```php
  osc_add_hook( 'add_admin_toolbar_menus', 'osc_admin_toolbar_menu'    , 0 );
 ```
-

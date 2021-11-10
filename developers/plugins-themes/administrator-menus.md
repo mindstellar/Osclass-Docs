@@ -4,7 +4,7 @@ Usually plugin and themes needs to add menus in the Administrator panel for prov
 
 There are some functions for manipulate the Administration Menu.
 
-![Admin Menu](../../.gitbook/assets/adminmenu.jpg)
+![Admin Menu](../../.gitbook/assets/AdminMenu.jpg)
 
 #### hAdminMenu helper
 
@@ -46,12 +46,12 @@ Remove submenu page given parent menu page identifier.
 
 #### Adding submenus to existings menus
 
-![](../../.gitbook/assets/menusubmenu.jpg)
+![](../../.gitbook/assets/MenuSubmenu.jpg)
 
 Helpers can add submenus to existing menus, like:Submenu Listings
 
 {% hint style="info" %}
-Helpers are available for these pages: 
+Helpers are available for these pages:&#x20;
 
 * Listings
 * Categories
@@ -106,4 +106,3 @@ Examples:
  ) ;
    ...
 ```
-

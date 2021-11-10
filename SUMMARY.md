@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Osclass](README.md)
+* [Mindstellar Osclass](README.md)
 
 ## Beginners
 
@@ -31,4 +31,3 @@
   * [Admin Toolbar](developers/plugins-themes/admin-toolbar.md)
   * [Style and scripts enqueue functions](developers/plugins-themes/style-and-scripts-enqueue-functions.md)
   * [Routes](developers/plugins-themes/routes.md)
-

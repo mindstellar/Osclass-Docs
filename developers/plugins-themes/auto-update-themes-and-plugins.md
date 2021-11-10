@@ -20,9 +20,8 @@ s_version: "A.B.C",
 }
 ```
 
-  
+\
 **s\_version**: Any alphanumeric string is ok, but we encourage only-numeric ones to be able to check is a version is greater or not than the installed one, preferred A.B.C style, as "1.0.2" or "2.1.0"
 
-  
+\
 **e\_type**: e\_type **has to be** one of these options THEME or PLUGIN or "LANGUAGE"
-

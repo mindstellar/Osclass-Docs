@@ -2,11 +2,7 @@
 description: Get Started with Osclass
 ---
 
-# Osclass
-
-## Why this new fork?
-
-Since Osclass project was effectively shut down in September 2019, this project's goal is to continue its development, to adapt new features, get rid of deprecated code and set road for new goals.
+# Mindstellar Osclass
 
 ## What is Osclass?
 
@@ -16,15 +12,14 @@ Best features: Plugins, themes, multi-language, CAPTCHA, dashboard, SEO friendly
 
 Clone the repository and the submodules.
 
-```text
+```
 $> git clone --recursive git@github.com:mindstellar/Osclass.git
 ```
 
 ## Project info
 
 * **Source Code:** [https://github.com/mindstellar/osclass](https://github.com/mindstellar/Osclass)
-* **Support Forum:** [https://osclass.discourse.group](https://osclass.discourse.group)
+* **Support Forum:** [https://osclasscommunity.com/community](https://osclasscommunity.com/community)
 * **Releases:** [https://github.com/mindstellar/Osclass/releases](https://github.com/mindstellar/Osclass/releases)
 * **Osclass Extras:** [https://github.com/mindstellar/Osclass-Extras](https://github.com/mindstellar/Osclass-Extras)
-* **License:** [GPLv3]
-
+* **License:** \[GPLv3]

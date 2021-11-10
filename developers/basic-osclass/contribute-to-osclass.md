@@ -1,6 +1,6 @@
 # Contribute to Osclass
 
-## Contributing to Osclass <a id="firstHeading"></a>
+## Contributing to Osclass <a href="firstheading" id="firstheading"></a>
 
 We are glad to hear you want to contribute to the Osclass project. Osclass is an open source solution for your classifieds site, developed by and for its users, like you. There are several ways to help Osclass grow and improve, even if you don't know to code, you could still help Osclass.
 
@@ -16,9 +16,9 @@ It is work in progress to allow everyone to contribute with translations.
 
 ### Support Forums
 
-~~Users' participation and involvement are essential to maintain our support forums.~~ 
+~~Users' participation and involvement are essential to maintain our support forums. ~~
 
-Currently we do not have any official forums but you can get help at [https://forums.osclasscommunity.com/](https://forums.osclasscommunity.com/) which is an active public forum with active community. 
+Currently we do not have any official forums but you can get help at [https://forums.osclasscommunity.com/](https://forums.osclasscommunity.com) which is an active public forum with active community.&#x20;
 
 We will update this list here if we found more places where you can actively seek or give support.
 
@@ -38,9 +38,8 @@ Want to suggest improvements or new functionalities? . Have you encountered a bu
 
 ### Tell your friends about Osclass
 
-We will be happy if you tell your friends about Osclass, share a link or display a small banner on your site. More users -&gt; stronger community -&gt; better Osclass!
+We will be happy if you tell your friends about Osclass, share a link or display a small banner on your site. More users -> stronger community -> better Osclass!
 
 ### Donations
 
 Osclass is and will always be free,. Sending money to Osclass developers is another way to support the community. If any theme or plugin makes your life a little bit easier, contact the author and show your support. Sometimes developers just need to hear users are happy to use their plugins/themes.
-

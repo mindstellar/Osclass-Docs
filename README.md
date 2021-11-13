@@ -19,7 +19,7 @@ $> git clone --recursive git@github.com:mindstellar/Osclass.git
 ## Project info
 
 * **Source Code:** [https://github.com/mindstellar/osclass](https://github.com/mindstellar/Osclass)
-* **Support Forum:** [https://osclasscommunity.com/community](https://osclasscommunity.com/community)
+* **Support Forum:** [https://osclass.discourse.group](https://osclass.discourse.group) , [https://osclasscommunity.com/community](https://osclasscommunity.com/community) , [https://www.valueweb.gr/forums/osclass/](https://www.valueweb.gr/forums/osclass/)
 * **Releases:** [https://github.com/mindstellar/Osclass/releases](https://github.com/mindstellar/Osclass/releases)
 * **Osclass Extras:** [https://github.com/mindstellar/Osclass-Extras](https://github.com/mindstellar/Osclass-Extras)
 * **License:** \[GPLv3]

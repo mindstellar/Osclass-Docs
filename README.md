@@ -1,25 +1,27 @@
+# This documentation has moved
+
+The Osclass documentation that lived here is superseded. Osclass is now
+**Shopclass**, and its documentation is maintained alongside the code.
+
+### 📖 [mindstellar.com/docs](https://mindstellar.com/docs/)
+
+| Looking for | Go to |
+|---|---|
+| Installing | [mindstellar.com/docs/install](https://mindstellar.com/docs/install/) |
+| Upgrading an Osclass site | [mindstellar.com/docs/from-osclass](https://mindstellar.com/docs/from-osclass/) |
+| What happened to Osclass | [mindstellar.com/osclass](https://mindstellar.com/osclass/) |
+| Configuration and the admin panel | [mindstellar.com/docs](https://mindstellar.com/docs/) |
+| Writing plugins and themes | [mindstellar.com/docs/developers](https://mindstellar.com/docs/developers/) |
+| The source code | [github.com/mindstellar/shopclass](https://github.com/mindstellar/shopclass) |
+
+The pages are written in
+[`docs/site/`](https://github.com/mindstellar/shopclass/tree/master/docs/site) in
+the Shopclass repository, so a correction is a pull request against the code it
+documents. Every page on the site has an **Edit this page** link that goes
+straight there.
+
 ---
-description: Get Started with Osclass
----
 
-# Mindstellar Osclass
-
-## What is Osclass?
-
-Osclass is a free and open script to create your advertisement or listings site.
-
-Best features: Plugins, themes, multi-language, CAPTCHA, dashboard, SEO friendly.
-
-Clone the repository and the submodules.
-
-```
-$> git clone --recursive git@github.com:mindstellar/Osclass.git
-```
-
-## Project info
-
-* **Source Code:** [https://github.com/mindstellar/osclass](https://github.com/mindstellar/Osclass)
-* **Support Forum:** [https://osclass.discourse.group](https://osclass.discourse.group) , [https://osclasscommunity.com/community](https://osclasscommunity.com/community) , [https://www.valueweb.gr/forums/osclass/](https://www.valueweb.gr/forums/osclass/)
-* **Releases:** [https://github.com/mindstellar/Osclass/releases](https://github.com/mindstellar/Osclass/releases)
-* **Osclass Extras:** [https://github.com/mindstellar/Osclass-Extras](https://github.com/mindstellar/Osclass-Extras)
-* **License:** \[GPLv3]
+This repository is archived and read-only. It is kept so that links to it still
+resolve; nothing here is maintained, and the content it held described Osclass
+3.x and 5.x rather than current Shopclass.
